@@ -15,5 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 to check for and ask for Notification Permissions on iOS and Android.
-
-![screenshort](https://user-images.githubusercontent.com/76934359/134760712-deec8d2d-4892-4f99-9ba3-1a0205af7280.png)
+![screenShort](https://user-images.githubusercontent.com/76934359/134760733-44b11c87-903c-4333-a55a-b107d819824c.PNG)
